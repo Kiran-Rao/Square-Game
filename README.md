@@ -8,6 +8,3 @@ http://squaregame.kiranrao.ca
 
 ### Android APK
 https://github.com/Kiran-Rao/Square-Game/blob/master/Square%20Game.apk
-
-#### TODO: 
-Upload Android Source
