@@ -3,7 +3,7 @@ This is a game I made in high school. It's quite simple, use the arrow keys to a
 
 
 ### Web 
-http://squaregame.kiranrao.ca
+https://squaregame.kiranrao.ca/
 
 
 ### Android APK
